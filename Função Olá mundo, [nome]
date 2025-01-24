@@ -1,0 +1,6 @@
+//Criar uma função que recebe um nome como parâmetro e exibe "Olá, [nome]!" no console.
+
+function MensagNome(nome) {
+    console.log(`Olá, ${nome}!`);
+}
+MensagNome("Yara");
